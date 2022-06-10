@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @George-Chrysos
-- 👀 I’m interested in Remote Front End Developer jobs
+- 👀 I’m interested in Remote Software Engineer jobs
 - 🌱 I’m currently learning React to upgrade my skills
-- 💞️ I’m looking to collaborate on projects that will help me broaden my knowledge of web development and learn about best practices
-- 📫 How to reach me: By email to georgechrysos@gmail.com
+- 💞️ I’m looking to collaborate on projects that will help me broaden my knowledge of software development and learn about the best practices of the field
+- 📫 How to reach me: By email to chrysosgiorgos@gmail.com
